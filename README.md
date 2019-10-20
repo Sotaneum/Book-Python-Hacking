@@ -43,7 +43,7 @@
 
 ## Book information
 
-![COVER](./assets/cover.jpg)
+[![COVER](./assets/cover_resize.jpg)](./assets/cover.jpg)
 - 파이썬 해킹입문 - 공격의 언어 파이썬을 이용한 해킹 연습 ([프리렉](https://freelec.co.kr/book/해킹-기본서/))
 - 도서 예제 파일 정보([링크](https://freelec.co.kr/datacenter/?board_name=DataCenter2&search_field=fn_title&search_text=%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%95%B4%ED%82%B9%20%EC%9E%85%EB%AC%B8&order_by=fn_pid&order_type=desc&vid=50))
 - 당시 23,000원에 구매 했습니다.
