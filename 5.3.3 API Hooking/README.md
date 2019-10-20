@@ -5,7 +5,7 @@
 
 - `Python 2` 코드로 작성되었습니다.
 - `pydbg` 모듈이 필요합니다.
-  - 도서의 3.2 장을 보시면 설치 및 적용을 할 수 있습니다.
+  - 도서의 `5.3.2` 장을 보시면 설치 및 적용을 할 수 있습니다.
 
 ## What is different from what is existing?
 

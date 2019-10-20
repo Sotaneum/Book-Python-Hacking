@@ -3,8 +3,8 @@
 
 ## Contents
 
-- [3.3 `API Hooking`](./3.3&#32;API&#32;Hooking/README.md)
-- [3.5 `Web Shell`](./3.5&#32;Web&#32;Shell/README.md)
+- [5.3.3 `API Hooking`](./5.3.3&#32;API&#32;Hooking/README.md)
+- [7.3.5 `Web Shell`](./7.3.5&#32;Web&#32;Shell/README.md)
 
 ## What is this book like?
 
